@@ -1,7 +1,7 @@
 # psu-sociology-site
 
 ## Description
-null
+Site created for Sociology at PSU Mont Alto
 
 ### Tags
 [Groovy]
